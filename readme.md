@@ -8,10 +8,12 @@ Menu Page: Interactive menu with 3D dish visuals, allergy information, and a pre
 The website will prioritize style, elegance, and seamless functionality, using JavaScript for front-end interactivity and Python for back-end logic. Limited images and restaurant details will be handled with placeholders until professional photos and scans are available.
 
 ## Objectives
-
 Create a visually stunning, responsive website that reflects The Albert’s upscale ambiance, inspired by the clean, modern aesthetic of the Brooklands Hotel's inspiration.
 Develop a table booking system with a real-time visual layout of available tables and bookings.
 Build an interactive menu page where users can view 3D dish models with allergy information and pre-order items via a drag-and-drop or checkbox system.
 Ensure seamless integration between the booking and menu pages for a cohesive user experience.
 Use placeholders for images and restaurant-specific data until professional assets are provided.
 
+## User Story
+Client is the owner of the Albert resturant with great local apeal from its elegant setting to the distinct tasting dishes from a busy kitchen. The client requested table booking and meal ordering with each order being emailed to specfied email.
+Unexpected suggestion to have a 3D scan of the restuarant and food to make this project stand out compared to functioning areas of other websites.
