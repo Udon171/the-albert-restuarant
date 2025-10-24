@@ -17,3 +17,26 @@ Use placeholders for images and restaurant-specific data until professional asse
 ## User Story
 Client is the owner of the Albert resturant with great local apeal from its elegant setting to the distinct tasting dishes from a busy kitchen. The client requested table booking and meal ordering with each order being emailed to specfied email.
 Unexpected suggestion to have a 3D scan of the restuarant and food to make this project stand out compared to functioning areas of other websites.
+
+
+## Table of Contents
+
+- [Description](#description)
+- [Website](#website)
+- [User Goals](#user-goals)
+- [User Stories](#user-stories)
+- [Website Goals & Objectives](#website-goals--objectives)
+- [Wireframes](#wireframes)
+- [Final Wireframe](#final-wireframe)
+- [Design Choices](#design-choices)
+- [Typography](#typography)
+- [Colour Scheme](#colour-scheme)
+- [Images](#images)
+- [Responsiveness](#responsiveness)
+- [Features](#features)
+- [Images of Website](#images-of-website)
+- [Technologies Used](#technologies-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+- [Project Diary](#project-diary)
